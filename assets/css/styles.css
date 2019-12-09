@@ -1,0 +1,11 @@
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+}
+
+#mainHeader {
+  background-image: url(../../assets/img/logo.png);
+  /*background-attachment: fixed;*/
+  background-position: center;
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+}
+
